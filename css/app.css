@@ -1,0 +1,92 @@
+.slogan {
+  font-style: italic;
+  margin-left: 85px;
+  white-space: nowrap;
+}
+
+.slogan2 {
+  margin-left: 110px;
+}
+
+.button {
+  margin: 2px;
+  width: 275px;
+  background: none;
+  border: 1px solid #f77cf0;
+  color: #f77cf0;
+}
+
+.button:hover {
+  background: #f77cf0;
+}
+
+.callout1 {
+  background: #e0e3e2;
+  color: #f77cf0;
+}
+
+.espacio {
+  margin-top: 30px;
+}
+
+.images img{
+  height: 115px;
+}
+
+.lista{
+  list-style-type: none;
+}
+
+.callout2{
+  background: #FFEBFE;
+}
+
+.fecha{
+  color: #FA7AF3;
+  font-size: 14px;
+}
+
+.pasta img{
+  width: 650px;
+}
+
+.texto{
+  margin-left: 10px;
+}
+
+.centro{
+border: 0 solid black;
+margin: 0 17%;
+background: rgba(133, 193, 238, 0.59);
+}
+
+.linea{
+  border-bottom: 1px solid black;
+}
+
+
+.boton{
+  color: white;
+  background-color: #F800E8;
+  padding: 10px;
+  height: 40px;
+  margin-bottom: 10px;
+}
+
+.icono{
+  padding-right: 8px;
+}
+
+body{
+  background: url(../img/fondo.jpg) no-repeat center center fixed;
+  background-size: cover;
+}
+
+.linea-derecha{
+  border-right: 1px solid black;
+  margin-right: 700px;
+}
+
+.tamaño{
+  width: 260px;
+}
